@@ -1,0 +1,10 @@
+export const PRODUCTS = {
+  backpack: 'Sauce Labs Backpack',
+  bikeLight: 'Sauce Labs Bike Light',
+  boltTShirt: 'Sauce Labs Bolt T-Shirt',
+  fleeceJacket: 'Sauce Labs Fleece Jacket',
+  onesie: 'Sauce Labs Onesie',
+  redTShirt: 'Test.allTheThings() T-Shirt (Red)',
+};
+
+export const PRODUCT_LIST = Object.values(PRODUCTS);
